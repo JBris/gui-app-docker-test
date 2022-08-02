@@ -10,7 +10,7 @@ If you're using MobaXterm, you'll need to export the `DISPLAY` env variable usin
 
 # Windows 11
 
-WSL 2 has native support for GUI apps + Docker.
+Untested. Though WSL 2 has native support for GUI apps + Docker.
 
 # Linux
 

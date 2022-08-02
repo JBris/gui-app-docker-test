@@ -8,7 +8,7 @@ Run WSL 2 + xserver. I'm running WSL 2 through MobaXterm.
 
 # Windows 11
 
-WSL 2 has native support for GUI apps.
+WSL 2 has native support for GUI apps + Docker.
 
 # Linux
 
